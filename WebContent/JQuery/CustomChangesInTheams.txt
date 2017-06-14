@@ -1,0 +1,13 @@
+1. [File] jquery.ui.tabs.css [Path] ERetailHTML\JQuery\themes\start [Line No] 17 [Desciption]  Changed padding size to 0em
+2. [File] jquery.ui.core.css [Path] ERetailHTML\JQuery\themes\start [Line No] 15 [Desciption]  Changed line-height to 0.8
+3. [File] jquery.ui.core.css [Path] ERetailHTML\JQuery\themes\dark-hive [Line No] 15 [Desciption]  Changed line-height to 0.8
+4. [File] jquery.ui.accordion.css [Path] ERetailHTML\JQuery\themes\start [Line No] 18 [Desciption]  Changed padding to 0.3em 0.3em
+5. [File] jquery.ui.datepicker.css [Path] ERetailHTML\JQuery\themes\start [Line No] 10 [Desciption]  added z-index: 999999 !important;
+6. [File] jquery.ui.theme.css [Path] ERetailHTML\JQuery\themes\start [Line No] 23 [Desciption]  added border-bottom: 1px solid white;
+7. [File] jquery.ui.theme.css [Path] ERetailHTML\JQuery\themes\start [Line No] 23 [Desciption]  changed color to white
+8. [File] jquery.jstree.js [Path] eRetailWeb\WebContent\struts\js\jstree [Line No] 4268 Change Default options setting, "opened": "ui-icon-minus","closed": "ui-icon-plus","item": "".
+9. [File] jquery.jstree.min.js [Path] eRetailWeb\WebContent\struts\js\jstree (see previous change log and do Search & Change Accordingly)
+10. [File] ui.jqgrid.css [Path] eRetailWeb/WebContent/struts/themes [Line No] 60 [Desciption] added font-size: 1.1em; color:white; font-weight: bold;
+
+
+
